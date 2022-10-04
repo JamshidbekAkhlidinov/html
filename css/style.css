@@ -1,0 +1,34 @@
+.style {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(194, 18, 194);
+    text-align: center;
+
+}
+
+h1 {
+    color: rgb(24, 191, 197);
+    background-color: antiquewhite;
+}
+
+body {
+    text-align: center;
+    text-decoration: solid;
+}
+
+.one {
+    border-style: solid;
+    border-color: red;
+}
+
+.too {
+    border-color: blue;
+    border-style: dashed;
+}
+
+.three{
+    border-color: red green blue yellow; /* red top, green right, blue bottom and yellow left */
+    border-style:groove;
+    border-radius: 30px;
+}
